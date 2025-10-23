@@ -1,8 +1,8 @@
-# Extract Final Frame of Video
+# Extract Final Frame of Video Py Script
 
 ## Purpose
 
-This Python script for extracts the final frame of videos, an emerging workflow with the advent of AI video generation where users chain together videos by feeding the generating platform the final frames.
+This Python script extracts the final frame of videos, an emerging workflow with the advent of AI video generation where users chain together videos by feeding the generating platform the final frames.
 
 ## Requirements
 
