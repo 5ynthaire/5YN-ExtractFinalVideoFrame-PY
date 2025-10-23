@@ -13,10 +13,25 @@ This Python script for extracts the final frame of videos, an emerging workflow 
 
 `python frame_extractor.py video.mp4`
 
+## Workflow Example
+
+**Drag and Drop**
+
+extract_frame.bat:
+
+```
+python frame_extractor.py %1
+```
+
 ## Commandline Switches
+
 - `--all`: Extracts final frames from all videos in working directory
 - `--folder folder_name`: Specifies subfolder name to extact frames to
 - `--buffer seconds`: 
+
+## Code
+
+View source: [frame_extractor.py](frame_extractor.py)
 
 ## License
 
