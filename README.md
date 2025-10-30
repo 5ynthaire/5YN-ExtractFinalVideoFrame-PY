@@ -1,3 +1,5 @@
+![5YN-ExtractFinalVideoFrame-PY](banner.png)
+
 # Python Script: Extract Final Frames of Videos
 
 ## Purpose
